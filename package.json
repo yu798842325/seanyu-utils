@@ -8,7 +8,7 @@
   },
   "name": "seanyu-utils",
   "description": "Some web3 shell",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "main": "index.js",
   "devDependencies": {
     "cspell": "^6.31.2"
@@ -24,7 +24,7 @@
   "author": "seanyu",
   "license": "ISC",
   "bugs": {
-    "url": "hhttps://github.com/yu798842325/seanyu-utils/issues"
+    "url": "https://github.com/yu798842325/seanyu-utils/issues"
   },
   "homepage": "https://github.com/yu798842325/seanyu-utils#readme"
 }
